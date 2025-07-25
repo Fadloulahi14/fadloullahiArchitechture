@@ -1,5 +1,5 @@
 {
-    "name": "baye-leyty-mountakha/projet",
+    "name": "fallou/projet",
     "autoload": {
         "psr-4": {
             "Src\\Entity\\":"src/entity/",
@@ -13,9 +13,11 @@
     },
     "authors": [
         {
-            "name": "Almountakha92",
-            "email": "seneleyty113@gmail.com"
+            "name": "fadloulahi",
+            "email": "fadloulahi14@gmail.com"
+
         }
     ],
-    "require": {}
+    "require": {},
+    "type": "project"
 }
